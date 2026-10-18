@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Faisal Alharbi 👋
 
-<!--
-**FaisalGH9/FaisalGH9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer based in Riyadh, building reliable machine learning and generative AI systems for financial services and other compliance-sensitive environments.
 
-Here are some ideas to get you started:
+## What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Enterprise machine learning, model evaluation, and threshold optimization
+- Generative AI applications, RAG, embeddings, and LLM inference
+- NLP, speech AI, and multimodal systems
+- Production deployment with Docker, Kubernetes, OpenShift, Linux, and REST/gRPC APIs
+
+## Featured projects
+
+### [From Tube to Thought](https://github.com/FaisalGH9/From-Tube-to-Thought-cloud)
+
+A multimodal RAG assistant that transforms YouTube videos into interactive knowledge bases using transcription, embeddings, retrieval, and LLMs.
+
+### [NLP Project](https://github.com/FaisalGH9/NLP-Project)
+
+A machine-learning project for classifying fake and real news using NLP workflows and model evaluation.
+
+### [CNNs Model](https://github.com/FaisalGH9/CNNs-Model)
+
+Computer-vision experiments using convolutional neural networks and transfer learning.
+
+## Core stack
+
+`Python` · `SQL` · `Scikit-learn` · `PyTorch` · `TensorFlow` · `Hugging Face` · `RAG` · `ChromaDB` · `Docker` · `Kubernetes` · `OpenShift` · `Streamlit`
+
+## Certifications
+
+- AWS Certified AI Practitioner
+- MCIT Jr Data Science Certificate
